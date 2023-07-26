@@ -14,8 +14,8 @@ render(
     {/* <Moods /> */}
     {/* <Spinner /> */}
     {/* <Input /> */}
-    <Squares />
-    {/* <Programmers /> */}
+    {/* <Squares /> */}
+    <Programmers />
   </>
   ,
   document.querySelector('#root')
