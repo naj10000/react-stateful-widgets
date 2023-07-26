@@ -13,8 +13,8 @@ render(
     {/* <Counter /> */}
     {/* <Moods /> */}
     {/* <Spinner /> */}
-    <Input />
-    {/* <Squares /> */}
+    {/* <Input /> */}
+    <Squares />
     {/* <Programmers /> */}
   </>
   ,
