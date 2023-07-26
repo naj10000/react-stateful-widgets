@@ -11,8 +11,8 @@ import Programmers from './components/Programmers';
 render(
   <>
     {/* <Counter /> */}
-    <Moods />
-    {/* <Spinner /> */}
+    {/* <Moods /> */}
+    <Spinner />
     {/* <Input /> */}
     {/* <Squares /> */}
     {/* <Programmers /> */}
