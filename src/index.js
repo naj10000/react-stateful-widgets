@@ -10,11 +10,11 @@ import Programmers from './components/Programmers';
 
 render(
   <>
-    {/* <Counter /> */}
-    {/* <Moods /> */}
-    {/* <Spinner /> */}
-    {/* <Input /> */}
-    {/* <Squares /> */}
+    <Counter /> 
+    <Moods />
+    <Spinner />
+     <Input />
+    <Squares />
     <Programmers />
   </>
   ,
